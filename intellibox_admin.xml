@@ -1,0 +1,8 @@
+<config>
+  <formats>
+    <format/>MM1
+    <format/>MM2
+    <format/>DCC
+    <format/>SEL
+  </formats>
+</config>
