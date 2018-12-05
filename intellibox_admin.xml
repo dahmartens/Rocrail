@@ -2,6 +2,8 @@
   <formats>
     <format/>MM1
     <format/>MM2
+    <format/>mfx
+    <format/>mSD
     <format/>DCC
     <format/>SEL
   </formats>
